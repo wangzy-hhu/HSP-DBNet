@@ -1,0 +1,7 @@
+mmcv
+torch
+torchvision
+
+
+# pip install -U openmim
+# mim install mmcv
